@@ -2,13 +2,18 @@
 
 ## About Me
 
-## GitHub Stats
+* Hi, my name is Murillo, I'm 19 years old and triyng to learn as much as I can
+* Information Systems undergraduate at UFRPE
+* Backend development using Java Springboot
+* Currently studiyng AWS
+
+## Stats
 <div align=center>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marteldelfer&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Marteldelfer's GitHub Stats" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marteldelfer&theme=default&hide_border=true" alt="Marteldelfer's GitHub Stats" />
 </div>
 
-## Competences
+## Skills
 <div align=center>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
