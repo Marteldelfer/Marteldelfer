@@ -9,7 +9,7 @@
 
 ## Stats
 <div align=center>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marteldelfer&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Marteldelfer's GitHub Stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marteldelfer&theme=default&show_icons=true&hide_border=true&layout=compact&exclude_repo=DataAnalysisPython" alt="Marteldelfer's GitHub Stats" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marteldelfer&theme=default&hide_border=true" alt="Marteldelfer's GitHub Stats" />
 </div>
 
